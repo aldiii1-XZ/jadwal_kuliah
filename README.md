@@ -2,6 +2,10 @@
 
 Aplikasi Flutter untuk melihat jadwal kuliah mingguan. Tugas kelompok mata kuliah Pengembangan Aplikasi Bergerak 1, dikerjakan mengikuti video tutorial kelas (<https://youtu.be/OA_uOh_s5aQ>).
 
+## Demo
+
+Versi web bisa dicoba di <https://jadwal-kuliah-fawn.vercel.app>. Halaman dibangun ulang otomatis setiap ada push ke branch `main`, memakai Flutter SDK yang di-clone saat proses build (lihat `vercel.json`).
+
 ## Fitur
 
 - Melihat jadwal per hari — pilih hari di baris chip, daftar mata kuliah ikut berubah. Di atas daftar ada ringkasan jumlah mata kuliah dan total jam.
